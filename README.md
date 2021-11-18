@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="description" content="¡Registra aquí tus quinielas! - Quiniela Liga MX">
     <meta name="keywords" content="Quiniela, Liga MX, Apostar, Pronósticos, Eurocopa, Copa America">
-    <title>Quiniela Jalisco</title>
+    <title>THE FANATIC</title>
     <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="10/styles10.css">
     <link rel="icon" href="icon.jpg">
