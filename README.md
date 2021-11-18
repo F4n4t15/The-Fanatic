@@ -122,19 +122,5 @@
 
         <br><br>
 
-    <div>
-    <h4 id="costo">Costo: $0</h4><h4 id="total">Total: $0</h4><br>
-    </div>
-    <div>
-        <h4 id="numquinielas">0 Quiniela(s)</h4>
-    </div>
-    <br>
-    <!--<p id="display"></p>-->
-    <div id="divaux" translate="no">
-        <table id="display">
-        </table>
-    </div>
-    <!--<button id="undo" onclick="remove()"><ion-icon name="arrow-undo-outline"></ion-icon></button>-->
-    <br>
 </body>
 </html>
