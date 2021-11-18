@@ -5,15 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="description" content="¡Registra aquí tus quinielas! - Quiniela Liga MX">
     <meta name="keywords" content="Quiniela, Liga MX, Apostar, Pronósticos, Eurocopa, Copa America">
-    <title>THE FANATIC</title>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="10/styles10.css">
-    <link rel="icon" href="icon.jpg">
-    <link rel="apple-touch-icon" href="icon.jpg">
-    <link rel="shortcut icon" href="icon.jpg" type="image/x-icon">
-    <script type="module" src="https://unpkg.com/ionicons@5.1.2/dist/ionicons/ionicons.esm.js"></script>
-    <script nomodule="" src="https://unpkg.com/ionicons@5.1.2/dist/ionicons/ionicons.js"></script>
-    <script src="10/main10.js"></script>
+    <title>Quiniela Jalisco</title>
+   
 </head>
 
 <body>
