@@ -1,6 +1,4 @@
-# The-Fanatic
-Quiniela
-<!DOCTYPE html>
+
 <html lang="en" translate="no">
 <head>
     <meta charset="UTF-8">
