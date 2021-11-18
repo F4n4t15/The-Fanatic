@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en" translate="no">
 <head>
     <meta charset="UTF-8">
@@ -6,7 +7,14 @@
     <meta name="description" content="¡Registra aquí tus quinielas! - Quiniela Liga MX">
     <meta name="keywords" content="Quiniela, Liga MX, Apostar, Pronósticos, Eurocopa, Copa America">
     <title>Quiniela Jalisco</title>
-   
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="10/styles10.css">
+    <link rel="icon" href="icon.jpg">
+    <link rel="apple-touch-icon" href="icon.jpg">
+    <link rel="shortcut icon" href="icon.jpg" type="image/x-icon">
+    <script type="module" src="https://unpkg.com/ionicons@5.1.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule="" src="https://unpkg.com/ionicons@5.1.2/dist/ionicons/ionicons.js"></script>
+    <script src="10/main10.js"></script>
 </head>
 
 <body>
@@ -122,5 +130,19 @@
 
         <br><br>
 
+    <div>
+    <h4 id="costo">Costo: $0</h4><h4 id="total">Total: $0</h4><br>
+    </div>
+    <div>
+        <h4 id="numquinielas">0 Quiniela(s)</h4>
+    </div>
+    <br>
+    <!--<p id="display"></p>-->
+    <div id="divaux" translate="no">
+        <table id="display">
+        </table>
+    </div>
+    <!--<button id="undo" onclick="remove()"><ion-icon name="arrow-undo-outline"></ion-icon></button>-->
+    <br>
 </body>
 </html>
